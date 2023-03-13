@@ -1,5 +1,5 @@
 ### WorkManager로 백그라운드 작업
-링크 : (https://developer.android.com/codelabs/basic-android-kotlin-compose-workmanager?hl=ko&continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-basics-compose-unit-7-pathway-1%3Fhl%3Dko%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fbasic-android-kotlin-compose-workmanager#0)
+Codelab 링크 : https://developer.android.com/codelabs/basic-android-kotlin-compose-workmanager?hl=ko&continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-basics-compose-unit-7-pathway-1%3Fhl%3Dko%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fbasic-android-kotlin-compose-workmanager#0
 
 학습 내용
 * WorkManager 생성
